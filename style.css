@@ -82,6 +82,7 @@ ul li a:hover {
 }
 
 footer {
+  font-family: 'Pacifico', cursive;
   font-weight: 500;
   font-size: 1.5rem;
   opacity: 0.6;
