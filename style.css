@@ -83,7 +83,7 @@ ul li a:hover {
 
 footer {
   font-weight: 500;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   opacity: 0.6;
   color: rgb(117, 151, 157);
   transition: opacity 400ms;
@@ -94,6 +94,7 @@ footer:hover {
 }
 
 footer a {
+  font-family: 'Pacifico', cursive;
   color: var(--text-color);
-  font-weight: bold;
+  font-weight: normal;
 }
