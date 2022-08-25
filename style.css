@@ -6,9 +6,10 @@
 
 :root {
   --text-color: #f4f8fa;
+  --bg-color: #00082F;
+
   --primary-color: #4263EB;
   --secondary-color: #364FC7;
-  --bg-color: #00082F;
 
   font-size: 62.5%;
 }
