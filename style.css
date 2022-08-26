@@ -51,6 +51,12 @@ h1 {
   font-weight: 400;
   opacity: 0.8;
   font-size: 1.8rem;
+  transition: opacity 400ms;
+  cursor: pointer;
+}
+
+.username:hover {
+  opacity:1;
 }
 
 ul {
