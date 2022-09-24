@@ -38,6 +38,7 @@ img.perfil {
   height: 10.0rem;
   padding: 3.7px;
   border: var(--primary-color) solid .3rem;
+  cursor: not-allowed;
 }
 
 h1 {
