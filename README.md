@@ -1,4 +1,4 @@
-                 # Linktree
+# Linktree
 
 ![preview](./.github/preview.png)        
 
